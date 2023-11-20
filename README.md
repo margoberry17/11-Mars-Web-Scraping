@@ -6,5 +6,7 @@ I’ve learned to identify HTML elements on a page, identify their id and class 
 Collecting data, organizing and storing data, analyzing data, and then visually communicating my insights.
 
 This project consists of two technical products:
+
     Part 1: Scrape titles and preview text from Mars news articles.
+    
     Part 2: Scrape and analyze Mars weather data, which exists in a table.
